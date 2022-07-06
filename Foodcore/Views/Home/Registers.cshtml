@@ -1,0 +1,56 @@
+﻿@model Foodcore.Models.Register
+
+<h1>Register </h1>
+<hr />
+
+    <div style="width:500px; margin-left:300px">
+
+        <form method="post">
+            <label>Enter username</label>
+            <input type="text"  asp-for=Username class="form-control" />
+            <span asp-validation-for=Username></span> <br />  @*area where validation message will be displayed*@
+
+            @*hello*@
+
+            <label>Enter password</label>
+            <input type="text" asp-for=Pwd  class="form-control"/> <br />
+            <span asp-validation-for=Pwd></span><br />
+
+
+
+            <label>Enter DOB</label>
+            <input type="date" asp-for=Dob class="form-control" /><br />
+
+
+            <label>Enter Email</label>
+            <input type="email" asp-for=Email class="form-control" /><br />
+            <span asp-validation-for=Email></span> <br />
+
+            <label>Select Gender</label>
+            <input type="radio" asp-for=Gender value="true"  class="form-control"/>
+            <input type="radio" asp-for=Gender  value="false" class="form-control"/><br />
+
+            <label>Enter Phone</label>
+            <input type="text" asp-for=Phone  class="form-control"/><br />
+            <span asp-validation-for=Phone></span><br />
+
+
+            <label>Enter Nationality</label>
+
+            <input type="text" asp-for=Nationality  class="form-control"/><br />
+
+            <br /><br />
+
+            <input type="submit" value="Register" class="btn btn-primary"  />
+
+        </form>
+    </div>
+    <br />
+
+<div>
+    
+    @ViewData["a"]
+
+
+
+</div>

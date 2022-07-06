@@ -1,0 +1,46 @@
+﻿@using Microsoft.AspNetCore.Http
+<html>
+    <head>
+         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+         <link rel="stylesheet" href="~/css/site.css" />
+        <title>
+
+            FOOD COURT ONLINE
+        </title>
+           </head>
+        <body>
+            <header>
+          <img src="https://www.restroapp.com/blog/wp-content/uploads/2020/03/online-food-ordering-statistics-RestroApp.jpg"  style="width:100%; height:400px" />
+        </header>
+         <nav  class="navbar navbar-custom ">
+             <a class="navbar-brand" href="Home">Home</a>
+
+             @if(Context.Session.GetString("uid") ==null)
+        {
+            <a class="navbar-brand" href="Login">Login</a>
+        }
+        else
+
+        {
+             <a class="navbar-brand" href="Logout">Logout</a>
+        }
+
+            
+            
+
+
+             <a class="navbar-brand" href="Registers">Register</a>
+             <a class="navbar-brand" href="Menu">Menu</a>
+            <a class="navbar-brand" href="Myorders">Orders</a>
+              <a class="navbar-brand" href="Contact">Contact</a>
+             
+
+        </nav>
+       
+      </body>
+   
+</html>
+
+
+
+@RenderBody()

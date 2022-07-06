@@ -1,0 +1,271 @@
+﻿++Solution 'Foodcore' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Foodcore.sln
+++Foodcore
+i:{00000000-0000-0000-0000-000000000000}:Foodcore
+++Connected Services 
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:>411
+++SQL Server Database
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:>440
+++Dependencies
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:>410
+++Analyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:analyzers
+++Frameworks
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:frameworks
+++Packages
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:packages
+++Properties
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\properties\
+++launchSettings.json
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\properties\launchsettings.json
+++wwwroot
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\
+++css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\css\
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\
+++js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\js\
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\
+++favicon.ico
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\favicon.ico
+++Controllers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\controllers\
+++HomeController.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\controllers\homecontroller.cs
+++TestingController1.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\controllers\testingcontroller1.cs
+++Models
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\models\
+++FoodcoreContext.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\models\foodcorecontext.cs
+++Menu.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\models\menu.cs
+++Order.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\models\order.cs
+++Register.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\models\register.cs
+++Views
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\
+++Home
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\
+++Contact.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\contact.cshtml
+++Home.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\home.cshtml
+++Login.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\login.cshtml
+++Logout.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\logout.cshtml
+++menu.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\menu.cshtml
+++Myorders.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\myorders.cshtml
+++RegisterPage.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\registerpage.cshtml
+++Testing.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\home\testing.cshtml
+++Shared
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\shared\
+++_Layout.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\_viewstart.cshtml
+++appsettings.json
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\appsettings.json
+++appsettings.Development.json
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\appsettings.development.json
+++efpt.config.json
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\efpt.config.json
+++Program.cs
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\program.cs
+++SQL Server Database dependency is detected
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:>441
+++Microsoft.AspNetCore.Analyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\users\srila\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.0.0-preview8.19405.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (3.0.0-preview8.19405.11)
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:>423
+++site.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\css\site.css
+++biryani.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\biryani.jpg
+++chicken.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\chicken.jpg
+++chole.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\chole.jpg
+++dosa.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\dosa.jpg
+++fish.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\fish.jpg
+++idly.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\idly.jpg
+++kulcha.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\kulcha.jpg
+++pavbhaji.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\pavbhaji.jpg
+++poori.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\poori.jpg
+++upma.jpg
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\images\upma.jpg
+++site.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\js\site.js
+++bootstrap
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\
+++jquery
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery\
+++jquery-validation
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\views\shared\_layout.cshtml.css
+++dist
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery\dist\
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery\license.txt
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{7c52f6cd-d769-4c2a-8184-e7346465b288}:c:\batch 215\.net core\foodcore\foodcore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
